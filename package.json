@@ -1,0 +1,17 @@
+{
+  "name": "@hackclub/notebook",
+  "version": "0.0.1",
+  "description": "Hack Club’s Notion-powered Notebook",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  },
+  "repository": {
+    "url": "https://github.com/hackclub/notebook"
+  },
+  "license": "MIT"
+}
